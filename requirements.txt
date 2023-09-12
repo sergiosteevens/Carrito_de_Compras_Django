@@ -1,0 +1,5 @@
+install:
+
+Django = 3.2.5
+sqlite = 3
+Bootstrap = 5
